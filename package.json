@@ -1,0 +1,19 @@
+{
+  "name": "microservice-kit",
+  "version": "1.0.0",
+  "description": "fuck me !!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tm-roamer/microservice-kit.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tm-roamer/microservice-kit/issues"
+  },
+  "homepage": "https://github.com/tm-roamer/microservice-kit#readme"
+}
